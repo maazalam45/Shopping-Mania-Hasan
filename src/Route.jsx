@@ -2,13 +2,14 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import HomePage from "./Pages/Home";
 import LoginPage from "./Pages/login";
-import CartPage from "./Pages/Cart";
+
 import NotFoundPage from "./Pages/Notfound";
 import Profile from "./Pages/Profile";
 import ProductDetails from "./Pages/ProductDetail";
 import SignupPage from "./Pages/Signup";
 import CheckoutPage from "./Pages/Checkout";
 import OrderDetailsPage from "./Pages/orderdetail";
+import CartPage from "./Pages/Cart";
 
 const AppRoutes = () => {
   return (
