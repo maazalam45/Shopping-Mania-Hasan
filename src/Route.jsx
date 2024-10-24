@@ -9,6 +9,7 @@ import CheckoutPage from "./Pages/Checkout";
 import OrderDetailsPage from "./Pages/OrderPage";
 import CartPage from "./Pages/CartPage";
 import HomePage from "./Pages/Home";
+import LoginPage from "./Pages/LoginPage";
 
 const AppRoutes = () => {
   return (
