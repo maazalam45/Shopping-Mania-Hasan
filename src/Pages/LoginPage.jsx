@@ -139,6 +139,15 @@ const LoginPage = () => {
             Create an Account
           </button>
         </div>
+        {/* Sample Email and Password Display */}
+        <div className="mt-4 text-center">
+          <p className="text-white">
+            Gmail: <span className="font-semibold">a@gmail.com</span>
+          </p>
+          <p className="text-white">
+            Password: <span className="font-semibold">123456</span>
+          </p>
+        </div>
       </div>
 
       {/* Popup for successful login */}
